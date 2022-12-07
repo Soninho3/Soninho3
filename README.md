@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soninho3
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning low level
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
