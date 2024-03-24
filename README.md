@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Soninho3
-- 👀 I’m interested in learning low level
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
 
 <!---
 Soninho3/Soninho3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
